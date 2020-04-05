@@ -1,7 +1,7 @@
 {
   "author": "Girma Nigusse <xgirma@gmail.com>",
   "bugs": {
-    "url": "https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/issues"
+    "url": "https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-should/issues"
   },
   "dependencies": {
     "chai": "4.2.0",
@@ -9,7 +9,7 @@
     "cucumber": "6.0.5",
     "playwright": "0.12.1"
   },
-  "description": "Playwright end-to-end test automation boilerplate. Using Commonjs, Cucumber, Chai and Expect.",
+  "description": "Playwright end-to-end test automation boilerplate. Using Commonjs, Cucumber, Chai and Should.",
   "devDependencies": {
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",
@@ -21,7 +21,7 @@
     "prettier": "2.0.2",
     "pretty-quick": "2.0.1"
   },
-  "homepage": "https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect#readme",
+  "homepage": "https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-should#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged --allow-empty"
@@ -35,9 +35,9 @@
     "e2e",
     "e2e tests",
     "example",
-    "expect",
     "integration test",
-    "playwright"
+    "playwright",
+    "should"
   ],
   "license": "MIT",
   "lint-staged": {
@@ -45,10 +45,10 @@
       "prettier --write"
     ]
   },
-  "name": "playwright-commonjs-cucumber-chai-expect",
+  "name": "playwright-commonjs-cucumber-chai-should",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect.git"
+    "url": "git+https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-should.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
