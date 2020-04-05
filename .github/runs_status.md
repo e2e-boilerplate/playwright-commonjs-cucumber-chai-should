@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                                   |
+| :-- | :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 164 | 03/04/20 21:29 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/70303900) |
+| 165 | 03/04/20 21:56 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/70310345) |
+| 167 | 04/04/20 16:20 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/70735007) |
+| 159 | 02/04/20 23:26 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/69556617)         |
+| 142 | 29/03/20 07:06 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/65778743) |
+| 138 | 28/03/20 20:10 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/65544970) |
+| 143 | 29/03/20 07:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/65783353) |
+| 140 | 29/03/20 00:18 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/65634915) |
+| 139 | 28/03/20 23:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/65618085) |
+| 141 | 29/03/20 00:36 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/65639678) |
+| 144 | 29/03/20 07:24 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/65786167) |
+| 146 | 29/03/20 16:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/66007943) |
+| 145 | 29/03/20 12:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/65906266) |
+| 147 | 29/03/20 16:52 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/66020202) |
+| 154 | 01/04/20 01:55 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/67978895) |
+| 149 | 29/03/20 21:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/66140699) |
+| 150 | 29/03/20 21:43 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/66143421) |
+| 155 | 01/04/20 23:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/68743147) |
+| 161 | 02/04/20 23:39 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/69561429) |
+| 166 | 04/04/20 15:31 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/70712173) |
+| 153 | 31/03/20 01:54 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/67128259) |
+| 162 | 02/04/20 23:50 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/69563323) |
+| 152 | 30/03/20 21:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/66995836) |
+| 163 | 03/04/20 00:06 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/69574967) |
+| 151 | 29/03/20 22:41 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/66166697) |
+| 156 | 02/04/20 19:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/69444179) |
+| 158 | 02/04/20 21:36 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/69506390) |
+| 160 | 02/04/20 23:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/69560086) |
+| 157 | 02/04/20 20:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/69472620) |
+| 148 | 29/03/20 19:21 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect/actions/runs/66081786) |
