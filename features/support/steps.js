@@ -7,7 +7,8 @@ const {
   setDefaultTimeout,
 } = require("cucumber");
 const { chromium } = require("playwright");
-const { expect } = require("chai");
+// eslint-disable-next-line no-unused-vars
+const should = require("chai").should();
 
 let page;
 let browser;
@@ -37,10 +38,12 @@ Given("Navigate to the sandbox", async () => {
 
 When("I am on the sandbox page", async () => {
   await page.waitFor("h1");
-  expect(await page.title()).to.equal("Sandbox");
+  const title = await page.title();
+
+  title.should.eql("Sandbox");
 });
 
 Then("The page header should be {string}", async (header) => {
   const title = await page.$eval("h1", (el) => el.textContent);
-  expect(title).to.equal(header);
+  title.should.eql(header);
 });
