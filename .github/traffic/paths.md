@@ -1,7 +1,7 @@
 | referrer                                                                        | count | uniques |
 | :------------------------------------------------------------------------------ | :---- | :------ |
+| /e2e-boilerplate/playwright-commonjs-cucumber-chai-should/actions               | 3     | 1       |
 | /e2e-boilerplate/playwright-commonjs-cucumber-chai-should                       | 2     | 1       |
-| /e2e-boilerplate/playwright-commonjs-cucumber-chai-should/actions               | 2     | 1       |
 | /e2e-boilerplate/playwright-commonjs-cucumber-chai-should/actions/runs/71352277 | 1     | 1       |
 | /e2e-boilerplate/playwright-commonjs-cucumber-chai-should/actions/runs/72253513 | 1     | 1       |
 | /e2e-boilerplate/playwright-commonjs-cucumber-chai-should/runs/562746540        | 1     | 1       |
