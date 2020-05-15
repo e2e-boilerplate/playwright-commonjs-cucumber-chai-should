@@ -37,7 +37,7 @@ Given("Navigate to the sandbox", async () => {
 });
 
 When("I am on the sandbox page", async () => {
-  await page.waitFor("h1");
+  await page.waitForSelector("h1");
   const title = await page.title();
 
   title.should.eql("Sandbox");
