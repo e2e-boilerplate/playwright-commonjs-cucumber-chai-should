@@ -6,7 +6,7 @@
   "dependencies": {
     "chai": "4.3.6",
     "chromedriver": "90.0.1",
-    "cucumber": "6.0.5",
+    "cucumber": "6.0.7",
     "playwright": "1.21.1"
   },
   "description": "Playwright end-to-end test automation boilerplate. Using Commonjs, Cucumber, Chai and Should.",
